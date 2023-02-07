@@ -1,3 +1,6 @@
+#program to check whether one is eligible to vote
+
+
 citizenship= input("Are you a Kenyan citizen (YES/NO)? ")
 age = int(input("Enter your age? "))
 
